@@ -1,4 +1,4 @@
-let userName = '';
+```let userName = '';
 userName = 'Jane' ? console.log('Hello, Jane!'):console.log('Hello');
 let userQuestion = 'How do you think what the Number is next?';
 console.log(userQuestion);
@@ -14,4 +14,4 @@ if (eightBall === 0){
 }else if (eightBall ===6){console.log('Outlook not so good');
 }else if (eightBall ===7){console.log('Signs point to yes');
 }
-console.log(eightBall);
+console.log(eightBall);```
